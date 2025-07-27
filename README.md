@@ -1,7 +1,3 @@
-Certainly! Here’s a revised README tailored for your GitHub repository **Resume‑Interview‑Question‑Generator**, aligned with the provided excerpt:
-
----
-
 # 🤖 AI Interview Question Generator from Resume (Gemini API + Streamlit)
 
 A streamlined, powerful web app that leverages the **Google Gemini API (Flash or later)** to generate personalized interview questions from a resume (PDF). It extracts resume content and produces:
@@ -103,4 +99,3 @@ Developed by **Jayant Bhati** ([LinkedIn](https://www.linkedin.com/in/hitshsingh
 
 ---
 
-Feel free to adjust the wording, add badges (e.g. Streamlit, license, GitHub actions), or include screenshots to enhance the README further. Let me know if you’d like help adding more sections like contribution guidelines, license, or deployment instructions!
